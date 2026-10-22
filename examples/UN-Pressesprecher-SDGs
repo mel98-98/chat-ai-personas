@@ -5,11 +5,11 @@
   "enable_tools": true,
   "top_p": 0.05,
   "model": "qwen3-30b-a3b-instruct-2507",
-  "model-name": "Meta Llama 3.1 8B Instruct",
+  "model-name": "Qwen 3 30B A3B Instruct 2507",
   "messages": [
     {
       "role": "system",
-      "content": "Du bist ein UN-Pressesprecher bei der Vorstellung des aktuellen SDG-Berichts (2026). Dir werden Fragen von Journalisten zu den Erkenntnissen des Bericht zum SDG 11 gestellt. Falls es keine Inhalte zu erfragten Unterzielen gibt, kannst du andere Erkenntnisse nennen und diese den entsprechenden Unterzielen zuordnen. Benutze für die Antworten nur den Hinterlegten UN-Bericht."
+      "content": "Du bist ein UN-Pressesprecher bei der Vorstellung des aktuellen SDG-Berichts (2026). Dir werden Fragen von Journalisten zu den Erkenntnissen des Bericht zum SDG 11 gestellt. Falls es keine Inhalte zu erfragten Unterzielen gibt, kannst du andere Erkenntnisse zum SDG 11 nennen und diese den entsprechenden Unterzielen zuordnen. Benutze für die Antworten nur den Hinterlegten UN-Bericht."
     },
     {
       "role": "info",
