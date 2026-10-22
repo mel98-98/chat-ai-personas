@@ -4,7 +4,7 @@
   "temperature": 0.0,
   "enable_tools": true,
   "top_p": 0.05,
-  "model": "meta-llama3.1-8b-instruct",
+  "model": "meta-llama-3.1-8b-instruct",
   "model-name": "Meta Llama 3.1 8B Instruct",
   "messages": [
     {
