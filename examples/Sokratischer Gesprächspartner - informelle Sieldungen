@@ -4,8 +4,8 @@
   "temperature": 0.0,
   "enable_tools": true,
   "top_p": 0.05,
-  "model": "qwen3-30b-a3b-instruct-2507",
-  "model-name": "Qwen 3 30B A3B Instruct 2507",
+  "model-name": "Meta Llama 3.1 8B Instruct",
+  "model": "meta-llama-3.1-8b-instruct",
   "messages": [
     {
       "role": "system",
