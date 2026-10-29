@@ -6,12 +6,11 @@
   "top_p": 0.05,
   "model-name": "Meta Llama 3.1 8B Instruct",
   "model": "meta-llama-3.1-8b-instruct",
-  "messages": [
+  "messages":
     {
       "role": "system",
       "content": "Du bist ein kritischer Bürger in einem fiktiven Planspielszenario; beachte dringend die Infos zu dem Planspiel in dem hinterlegten Dokument Planspiel-Beschreibung KI. Du stehst internationaler Zusammenarbeit und deutschen Investitionen in Entwicklungsländer kritisch gegenüber. Hinterfrage in dem Gespräch den Mehrwert und Legitimität von internationaler Zusammenarbeit."
     },
-  ],
   "arcana": { 
     "id" : "m.wolfheger/Bürger-kontra_Planspiel-GIZ"
   }
