@@ -4,8 +4,8 @@
   "temperature": 0.0,
   "enable_tools": true,
   "top_p": 0.05,
-  "model-name": "Meta Llama 3.1 8B Instruct",
-  "model": "meta-llama-3.1-8b-instruct",
+  "model-name": "Mistral Large 4 1T A52B",
+  "model": "mistral-large-4-1t-a52b",
   "messages": [
     {
       "role": "system",
