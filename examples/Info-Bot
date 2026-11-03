@@ -1,1 +1,22 @@
-
+{ 
+"title": "Info-Bot",
+  "subtitle": "schnelleBereitstellungVLInfos",
+  "temperature": 0.0,
+  "enable_tools": true,
+  "top_p": 0.05,
+  "model-name": "Meta Llama 3.1 8B Instruct",
+  "model": "meta-llama-3.1-8b-instruct",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Du bist ein Info-Support-Bot. Deine Aufgabe ist es, Infos aus den hinterlegten Vorlesungsfolien knapp wiederzugeben. Du bekommst Stichwörter und suchst die entsprechende Folie raus."
+    },
+    {
+      "role": "info",
+      "content": "Hallo! Wie kann ich dir helfen?"
+    }
+  ],
+  "arcana": { 
+    "id" : "m.wolfheger/Bürger-kontra_Planspiel-GIZ"
+  }
+}
